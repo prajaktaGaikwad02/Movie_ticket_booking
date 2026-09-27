@@ -70,6 +70,10 @@ Allows the user to exit the booking system.
 
 ---
 
+[Click here to get full code](https://github.com/gaikwadshweta263-commits/Online-Shopping-System/blob/62b325775b604a4961a1f65f8db188f43ff39795/onlineshopsys_database.sql)
+
+---
+
 ## Python Concepts Used
 
 This project uses basic Python concepts such as:
